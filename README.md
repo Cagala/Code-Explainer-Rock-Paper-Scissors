@@ -8,3 +8,8 @@ But also this project refer to how you can use OOP. You can look out to files fo
 1-)Intermediate explanatory
 
 2-)English language
+
+## TR:
+Projeninin bütünü kodlamaya yeni başlamış kişiler için yapıldı. Uygulamanın içinde Taş-Kağıt-Makas oyununu nasıl yapabilecekleri, çözümlere programcı gözünden yaklaşım yaparak anlatan bölümler var. Bu bölümler Temel ve Orta Seviye olarak ikiye ayrılmış durumda.
+
+Ayrıca proje dosyalarını incelerseniz OOP kavramının pratikte nasıl olduğunu görebilir, nasıl kullanacağınız hakkında bilgi edinebilirsiniz.
