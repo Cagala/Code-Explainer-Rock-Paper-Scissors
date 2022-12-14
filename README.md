@@ -16,4 +16,5 @@ Ayrıca proje dosyalarını incelerseniz OOP kavramının pratikte nasıl olduğ
 
 ### Geliştirme Sürecinde:
 1-)Orta Seviye anlatım bölümü
+
 2-)İngilizce dil desteği
